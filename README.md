@@ -1,2 +1,10 @@
-# dotfiles
-personal dotfiles for various tools
+# · dotfiles
+Personal dotfiles for
+- alacritty
+- leftwm
+- tmux
+- zsh
+
+TODO:
+- [ ] vim
+- [ ] MrCode install script
